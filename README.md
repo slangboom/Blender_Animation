@@ -1,2 +1,2 @@
-# first_blender_animation
+# Blender_Animation
 Only video file available :)
