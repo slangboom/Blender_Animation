@@ -1,5 +1,5 @@
 # Blender_Animation
-Only video file available :)
+Only video files are available :)
 --
 1.Pendulum 
 ![Screenshot (312)](https://user-images.githubusercontent.com/71177813/193408008-97bdb1f1-c060-4276-b12b-4bfd9c8fb700.png)
